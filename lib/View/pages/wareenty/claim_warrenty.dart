@@ -27,7 +27,7 @@ class ClaimWarrentyPage extends StatelessWidget {
             height: height * .08,
           ),
           NavigateToPreviouse(
-            title: "Wrrenty Claims",
+            title: "Warranty Claims",
           ),
           SizedBox(
             height: height * .05,

@@ -63,7 +63,7 @@ class LoginScreen extends StatelessWidget {
                           height: height * .05,
                         ),
                         Text(
-                          "Enter emai address",
+                          "Enter email address",
                           style: poppinsStyle(FontWeight.w500, balck, 15),
                         ),
                         Padding(

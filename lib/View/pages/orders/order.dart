@@ -170,7 +170,7 @@ class OrderPage extends StatelessWidget {
                                                                 18),
                                                           ),
                                                           subtitle: Text(
-                                                            "₹ ${singlcart.productModel.productName}",
+                                                            "₹ ${singlcart.productModel.price}",
                                                             style: poppinsStyle(
                                                                 FontWeight.w500,
                                                                 balck,

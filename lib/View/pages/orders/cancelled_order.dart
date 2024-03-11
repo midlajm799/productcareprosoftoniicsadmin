@@ -133,7 +133,7 @@ class CancelledOrderPage extends StatelessWidget {
                                                                     .start,
                                                             children: [
                                                               Text(
-                                                                "₹ ${singlcart.productModel.productName}",
+                                                                "₹ ${singlcart.productModel.price}",
                                                                 style: poppinsStyle(
                                                                     FontWeight
                                                                         .w500,
